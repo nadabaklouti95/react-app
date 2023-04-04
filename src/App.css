@@ -1,0 +1,11 @@
+.active {
+  background-color: #50C878 !important;
+  color: white;
+  font-weight: bold;
+}
+.content {
+  margin:10px
+}
+.sendBtn {
+  margin-left: 20px 
+}
